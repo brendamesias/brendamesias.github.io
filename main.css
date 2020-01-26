@@ -1,0 +1,7 @@
+.nav-link{
+    font-weight: bold;
+}
+
+.nav-link.active{
+    color: #828484 !important;
+}
