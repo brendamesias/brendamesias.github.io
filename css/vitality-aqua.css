@@ -8,6 +8,10 @@ body {
   height: 100%;
 }
 
+.masthead{
+  background-position: center;
+}
+
 hr {
   max-width: 100px;
   height: 2px;
@@ -208,7 +212,7 @@ header.masthead .masthead-img {
 }
 
 header.masthead .masthead-title {
-  font-size: 4rem;
+  font-size: 3rem;
   line-height: 4rem;
   font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 900;
@@ -222,7 +226,7 @@ header.masthead .masthead-subtitle {
 
 header.masthead .scroll-down {
   position: absolute;
-  bottom: 20px;
+  bottom: 50px;
   width: 100%;
   text-align: center;
 }
@@ -264,8 +268,8 @@ header.masthead .scroll-down .btn:focus, header.masthead .scroll-down .btn:activ
     max-height: 250px;
   }
   header.masthead .masthead-title {
-    font-size: 5rem;
-    line-height: 5rem;
+    font-size: 4rem;
+    line-height: 4rem;
   }
   header.masthead .masthead-subtitle {
     font-size: 2rem;
