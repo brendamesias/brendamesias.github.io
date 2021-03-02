@@ -127,7 +127,7 @@ $(document).ready(function() {
   });
 
   // Magnific Popup Settings
-  $('.mix').magnificPopup({
+  $('.imagePortafolio').magnificPopup({
     type: 'image',
     image: {
       titleSrc: 'title'

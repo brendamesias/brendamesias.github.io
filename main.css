@@ -5,3 +5,9 @@
 .nav-link.active{
     color: #828484 !important;
 }
+
+.btn-xs{
+    font-size: 11px;
+    margin: 0.5em;
+    line-height: 0.5em;
+}
